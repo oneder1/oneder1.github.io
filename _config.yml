@@ -1,12 +1,12 @@
-title: OnederWon's Blog
-url: "https://onederwon.github.io/"
+title: Oneder1's Blog
+url: "https://oneder1.github.io/"
 description: "Trying to be a good software engineer"
 
 exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
 
-author: "OnederWon"
-disqus_shortname: onederwon
+author: "Oneder1"
+disqus_shortname: oneder1
 google_analytics: UA-42209870-1
 
 plugins:
