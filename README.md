@@ -1,4 +1,4 @@
-# Jekyll source for onederwon.github.io
+# Jekyll source for oneder1.github.io
 
 Read more here: [GitHub User Pages](https://help.github.com/articles/user-organization-and-project-pages).
 
@@ -8,7 +8,7 @@ Jekyll theme here : [lanyonm](https://github.com/lanyonm/lanyonm.github.io).
 
 # License
 
-The following directories and their contents are Copyright OnederWon.  You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Oneder1.  You may not reuse anything therein without my permission:
 
 *   _posts/
 *   _drafts/
